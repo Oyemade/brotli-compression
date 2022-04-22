@@ -1,0 +1,17 @@
+{
+  "name": "brotli-compression",
+  "version": "1.0.0",
+  "description": "This project helps to compress files with brotli compression algorithm",
+  "author": "Oyemade Oyemaja - @oyemade_",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "brotli-webpack-plugin": "^1.1.0",
+    "webpack": "^4.16.4",
+    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
