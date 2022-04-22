@@ -1,6 +1,5 @@
 const path = require("path");
 
-// const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 var BrotliPlugin = require("brotli-webpack-plugin");
 
 module.exports = {
